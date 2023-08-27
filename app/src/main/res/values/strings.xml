@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Wisata Lombok</string>
+    <string name="tour_name">Nama Tempat Wisata</string>
+    <string name="lokasi">Lokasi Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="About">About Me</string>
+    <string-array name="data_name">
+        <item>Gunung Rinjani</item>
+        <item>Kuta Mandalika</item>
+        <item>Desa Sade</item>
+        <item>Bukit Merese</item>
+        <item>Gili Trawangan</item>
+        <item>Gili Kedis</item>
+        <item>Pantai Pink</item>
+        <item>Pantai Tanjung Aan</item>
+        <item>Sesaot</item>
+        <item>Sendang Gile</item>
+    </string-array>
+    <string-array name="data_location">
+        <item>Lokasi : Sembalun Lawang, Kec. Sembalun, Kabupaten Lombok Timur, Nusa Tenggara Bar.</item>
+        <item>Lokasi : Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar.</item>
+        <item>Lokasi : Rembitan, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573</item>
+        <item>Lokasi : Jl. Kuta Lombok, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573</item>
+        <item>Lokasi : Gili Indah, Kec. Pemenang, Kabupaten Lombok Utara, Nusa Tenggara Bar.</item>
+        <item>Lokasi : Sekotong Bar., Kec. Sekotong, Kabupaten Lombok Barat, Nusa Tenggara Bar.</item>
+        <item>Lokasi : Sekaroh, Jerowaru, Kabupaten Lombok Timur, Nusa Tenggara Bar. 83672</item>
+        <item>Lokasi : Desa Pengembur, Sengkol, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573</item>
+        <item>Lokasi : Batu Mekar, Kec. Lingsar, Kabupaten Lombok Barat, Nusa Tenggara Bar. 83371</item>
+        <item>Lokasi : Air Terjun Sendang Gile, Senaru, Kec. Bayan, Kabupaten Lombok Utara, Nusa Tenggara Bar. 83354</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Gunung Rinjani adalah gunung berapi yang terletak di Lombok, Nusa Tenggara Barat. Gunung ini memiliki ketinggian 3.726 meter di atas permukaan laut dan merupakan gunung tertinggi kedua di Indonesia setelah Gunung Kerinci di Sumatra. Tempat wisata Gunung Rinjani menawarkan keindahan pemandangan alam yang spektakuler seperti Danau Segara Anak, air terjun, dan hamparan savana yang hijau dan luas. </item>
+        <item>Kuta Mandalika adalah pantai yang terletak di daerah Mandalika, Lombok, Indonesia. Pantai ini dikenal dengan ombaknya yang besar dan cocok untuk berselancar. Selain itu, pantai ini juga memiliki pasir putih yang indah dan air laut yang jernih, membuatnya menjadi tempat yang sempurna untuk berenang, berjemur, atau hanya bersantai menikmati pemandangan.</item>
+        <item>Desa Sade adalah sebuah desa adat yang terletak di Lombok, Indonesia. Desa ini terkenal dengan rumah-rumah tradisional Sasak yang masih berdiri kokoh, serta kebudayaan dan adat istiadat yang masih dijaga dengan baik. Di sini, wisatawan dapat belajar tentang kehidupan masyarakat Sasak dan mengenal lebih dekat tentang budaya Lombok.</item>
+        <item>Bukit Merese adalah bukit yang terletak di Lombok, Indonesia. Bukit ini memiliki pemandangan yang menakjubkan dari atas, dengan panorama pantai yang indah dan hamparan hijau di sekelilingnya. Wisatawan dapat mendaki bukit ini untuk menikmati pemandangan matahari terbenam yang spektakuler.</item>
+        <item>Gili Trawangan adalah sebuah pulau kecil yang terletak di lepas pantai Lombok, Indonesia. Pulau ini terkenal dengan pantainya yang indah dan air laut yang jernih. Wisatawan dapat melakukan snorkeling, menyelam, atau hanya bersantai di pantai. Pulau ini juga terkenal dengan suasana malamnya yang ramai dengan berbagai restoran, bar, dan klub malam.</item>
+        <item>Gili Kedis adalah sebuah pulau kecil yang terletak di dekat Gili Trawangan, Lombok, Indonesia. Pulau ini terkenal dengan pantainya yang indah dan air laut yang jernih. Wisatawan dapat melakukan snorkeling, menyelam, atau hanya bersantai di pantai. Pulau ini masih belum terlalu ramai sehingga cocok untuk wisatawan yang mencari ketenangan dan keindahan alam yang masih alami.</item>
+        <item>Pantai Pink adalah sebuah pantai yang terletak di Lombok, Indonesia. Pantai ini terkenal dengan pasirnya yang berwarna merah muda, yang dihasilkan oleh serpihan karang dan foraminifera. Pantai ini juga terkenal dengan keindahan alamnya, dengan air laut yang jernih dan panorama pantai yang indah.</item>
+        <item>Pantai Tanjung Aan merupakan salah satu pantai yang terletak di daerah Lombok, Nusa Tenggara Barat, Indonesia. Pantai ini terkenal dengan keindahan pasir putihnya yang halus dan air laut yang jernih. Selain itu, di sepanjang pantai terdapat banyak warung makan yang menyajikan hidangan khas Lombok dan juga tempat penyewaan perahu untuk berkeliling pantai. Pantai Tanjung Aan juga terkenal sebagai tempat yang cocok untuk bersantai sambil menikmati matahari terbenam yang indah.</item>
+        <item>Sesaot adalah sebuah desa wisata yang terletak di kecamatan Bayan, Kabupaten Lombok Utara, Provinsi Nusa Tenggara Barat. Desa ini terkenal dengan keindahan pemandangan alamnya yang masih asri dan belum terjamah oleh manusia. Di desa ini, wisatawan dapat menikmati panorama perbukitan yang hijau dengan sawah dan hamparan lahan pertanian yang luas. Selain itu, wisatawan juga dapat melihat langsung aktivitas masyarakat setempat yang masih menjaga kearifan lokal mereka dalam bertani dan berladang. Desa Sesaot juga menyediakan homestay dan penginapan murah yang cocok bagi wisatawan yang ingin merasakan pengalaman menginap di pedesaan yang damai.</item>
+        <item>Sendang Gile adalah salah satu air terjun yang terletak di Lombok Utara, Nusa Tenggara Barat, Indonesia. Air terjun ini dikelilingi oleh hutan tropis yang hijau dan sejuk, serta memiliki ketinggian sekitar 31 meter. Air terjun ini memiliki air yang sangat jernih dan dingin sehingga sangat cocok untuk berenang atau mandi di bawah air terjun. Di sekitar air terjun, terdapat jalan setapak yang dibangun dari kayu yang memungkinkan wisatawan untuk berjalan-jalan menikmati pemandangan sekitar dan mendengarkan suara alam yang menenangkan. Selain itu, wisatawan juga dapat melakukan trekking ke arah hutan untuk melihat flora dan fauna yang hidup di sekitar air terjun.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/gunung_rinjani</item>
+        <item>@drawable/kuta_mandalika</item>
+        <item>@drawable/desa_sade</item>
+        <item>@drawable/bukit_merese</item>
+        <item>@drawable/gili_trawangan</item>
+        <item>@drawable/gili_kedis</item>
+        <item>@drawable/pantai_pink</item>
+        <item>@drawable/pantai_tanjung_aan</item>
+        <item>@drawable/sesaot</item>
+        <item>@drawable/sendang_gile</item>
+    </integer-array>
+</resources>
